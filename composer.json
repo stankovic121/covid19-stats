@@ -1,0 +1,17 @@
+{
+    "name": "tomar/covid19",
+    "authors": [
+        {
+            "name": "FasterThanIE",
+            "email": "tomicawarr@gmail.com"
+        }
+    ],
+    "require": {
+        "doctrine/orm": "^2.6.2",
+        "symfony/yaml": "2.*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-0": {"": "App\\"}
+    }
+}
